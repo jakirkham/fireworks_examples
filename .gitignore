@@ -1,2 +1,5 @@
 # Ignore the iPython Checkpoints
 .ipynb_checkpoints/
+
+# Ignore the FireWorks launcher folders
+launcher_*/
